@@ -1,0 +1,8 @@
+TestName,PastFail,RecentFail,FilesChanged,CodeChurn,ExecTime
+PaymentTest,7,3,5,150,7
+CheckoutTest,6,2,4,120,6
+CartTest,4,1,2,70,4
+LoginTest,2,0,1,25,3
+ProfileTest,0,0,1,10,2
+ProductPageTest,2,0,1,30,3
+SearchTest,1,0,1,15,2
